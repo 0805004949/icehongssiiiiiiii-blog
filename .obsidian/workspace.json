@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "54d64be0df4f6e03",
+    "type": "split",
+    "children": [
+      {
+        "id": "23b26495afad6a77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9ce80294208c04f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "static/logo.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4517c42690202a3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0099972be607cc8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0581010fcc231344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62ef8fb09a2bc379",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9b1e3eb504f27db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9d1bcf556333857",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c51308b7c392ad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd983bd9468551d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "static/logo.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e7c48e359d39aea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "static/logo.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19b5b21a50a2423f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e22533fd4574f959",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "static/logo.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "62ef8fb09a2bc379",
+  "lastOpenFiles": [
+    "themes/themes/PaperMod/theme.toml",
+    "themes/themes/PaperMod/layouts/partials/templates/twitter_cards.html",
+    "themes/themes/PaperMod/layouts/partials/templates/schema_json.html",
+    "themes/themes/PaperMod/layouts/partials/templates/opengraph.html",
+    "themes/themes/PaperMod/layouts/_default/_markup/render-image.html",
+    "themes/themes/PaperMod/layouts/shortcodes/rtl.html",
+    "themes/themes/PaperMod/layouts/shortcodes/rawhtml.html",
+    "themes/themes/PaperMod/layouts/shortcodes/ltr.html",
+    "themes/themes/PaperMod/layouts/shortcodes/inTextImg.html",
+    "themes/themes/PaperMod/layouts/shortcodes/figure.html",
+    "themes/themes/PaperMod/layouts/shortcodes/collapse.html",
+    "themes/themes/PaperMod/images/tn.png",
+    "themes/themes/PaperMod/images/screenshot.png",
+    "themes/themes/PaperMod/README.md",
+    "content/search.md",
+    "archetypes/default.md",
+    "content/archives.md",
+    "themes/PaperMod/README.md",
+    "content/progress-diary/test.md",
+    "content/progress-diary/first.md",
+    "static/logo.png",
+    "static/Pasted image 20230227191335.png"
+  ]
+}

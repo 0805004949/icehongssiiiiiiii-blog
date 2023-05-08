@@ -1,0 +1,66 @@
+baseURL: ""
+languageCode: en-us
+title: My New Hugo Site
+theme : PaperMod
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+params:
+  comments: true
+  homeInfoParams:
+    Title: 'Hello stranger'
+    Content: 'Welcome'
+  socialIcons:
+    - name: facebook
+      url: "https://www.naver.com"
+    - name: github
+      url: "https://www.naver.com"
+    - name: twitter
+      url: "https://www.naver.com"
+  cover:
+    linkFullImages: true
+
+  fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+      keys: ["title", "permalink", "summary", "content"]
+
+  ShowBreadCrumbs: true
+  ShowReadingTime : true
+  ShowShareButtons: true
+  ShowPostNavLinks: true 
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+
+
+taxonomies:
+  tag: "tags"
+  series: "series"
+  categories: "categories"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10 
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10       
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10             
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10                   
