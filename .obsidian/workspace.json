@@ -110,9 +110,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d9d26b30b2d7237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "운영체제 개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/progress-diary/ECS.md",
+                "file": "운영체제 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/progress-diary/ECS.md",
+                "file": "운영체제 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/progress-diary/ECS.md"
+                "file": "운영체제 개요.md"
               }
             }
           }
@@ -239,11 +251,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51d54b8ca236f1a",
+  "active": "7d9d26b30b2d7237",
   "lastOpenFiles": [
+    "content/progress-diary/ECS.md",
+    "운영체제 개요.md",
     "content/progress-diary/소프트링크와 inode, 하드링크.md",
     "content/progress-diary/아키텍처.md",
-    "content/progress-diary/ECS.md",
     "content/progress-diary/inode 아이노드.md",
     "content/progress-diary/k8s이해.md",
     "content/progress-diary/Loadbalancer.md",
@@ -285,7 +298,6 @@
     "themes/themes/PaperMod/images/tn.png",
     "themes/themes/PaperMod/images/screenshot.png",
     "themes/themes/PaperMod/README.md",
-    "content/search.md",
     "static/Pasted image 20230227191335.png"
   ]
 }
