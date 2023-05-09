@@ -11,13 +11,108 @@
             "id": "f9ce80294208c04f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/logo.png"
+                "file": "content/progress-diary/가성비 블로그 만들기(hugo, github, vercel, obsidian).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25a8a3a0ea9084d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/progress-diary/nodeJS+dockerMysql+workbench.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "677b381b616e3910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/progress-diary/RDS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84d4fa855aa7ed73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/progress-diary/S3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11d8eaf87a85f45a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cc5a11632a6abd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/progress-diary/Loadbalancer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ce53a251307dcb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/progress-diary/ECS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffd7fc070d7a2b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/progress-diary/아키텍처.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b51d54b8ca236f1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/progress-diary/ECS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -63,12 +158,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "b9d1bcf556333857",
@@ -84,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static/logo.png",
+                "file": "content/progress-diary/ECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static/logo.png",
+                "file": "content/progress-diary/ECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static/logo.png"
+                "file": "content/progress-diary/ECS.md"
               }
             }
           }
@@ -145,8 +239,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62ef8fb09a2bc379",
+  "active": "b51d54b8ca236f1a",
   "lastOpenFiles": [
+    "content/progress-diary/소프트링크와 inode, 하드링크.md",
+    "content/progress-diary/아키텍처.md",
+    "content/progress-diary/ECS.md",
+    "content/progress-diary/inode 아이노드.md",
+    "content/progress-diary/k8s이해.md",
+    "content/progress-diary/Loadbalancer.md",
+    "content/progress-diary/nodeJS+dockerMysql+workbench.md",
+    "content/progress-diary/RDS.md",
+    "content/progress-diary/S3.md",
+    "content/progress-diary/test.md",
+    "content/progress-diary/useradd와 adduser차이.md",
+    "content/progress-diary/디렉토리개념.md",
+    "content/progress-diary/가성비 블로그 만들기(hugo, github, vercel, obsidian).md",
+    "디렉토리개념.md",
+    "content/categories.md",
+    "content/progress-diary/디바이스 드라이버란?.md",
+    "content/progress-diary/디바이스파일 device file.md",
+    "content/progress-diary/리눅스의 대표적인 디렉토리.md",
+    "content/progress-diary/사용자 group 관리.md",
+    "content/progress-diary/hugo로 블로그 만들기.md",
+    "content/progress-diary/사용자 그룹 권한 permission.md",
+    "static/logo.png",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
     "themes/PaperMod/layouts/partials/templates/schema_json.html",
@@ -157,7 +273,6 @@
     "themes/PaperMod/layouts/shortcodes/ltr.html",
     "themes/PaperMod/layouts/shortcodes/inTextImg.html",
     "themes/PaperMod/layouts/shortcodes/figure.html",
-    "themes/PaperMod/layouts/shortcodes/collapse.html",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
@@ -171,11 +286,6 @@
     "themes/themes/PaperMod/images/screenshot.png",
     "themes/themes/PaperMod/README.md",
     "content/search.md",
-    "archetypes/default.md",
-    "content/archives.md",
-    "content/progress-diary/test.md",
-    "content/progress-diary/first.md",
-    "static/logo.png",
     "static/Pasted image 20230227191335.png"
   ]
 }
