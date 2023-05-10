@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제 개요.md",
+                "file": "content/progress-diary/k8s-기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2023-k8s-bootcamp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제 개요.md",
+                "file": "content/progress-diary/k8s-기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제 개요.md",
+                "file": "content/progress-diary/k8s-기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제 개요.md"
+                "file": "content/progress-diary/k8s-기초.md"
               }
             }
           }
@@ -254,27 +254,31 @@
   "active": "7d9d26b30b2d7237",
   "lastOpenFiles": [
     "content/progress-diary/ECS.md",
+    "content/progress-diary/k8s강의.md",
+    "content/progress-diary/k8s-기초.md",
+    "content/progress-diary/미니큐브 실습.md",
+    "content/progress-diary/k8s-POD란?.md",
+    "content/progress-diary/k8s-yaml-POD-작성(descriptor).md",
+    "content/progress-diary/k8s-pod-liveness-redainess-소개.md",
+    "content/progress-diary/k8s-레이블과-셀렉터.md",
+    "content/progress-diary/k8s-레플리케이션컨트롤러.md",
+    "content/progress-diary/k8s-레플리카셋.md",
+    "content/progress-diary/k8s-API-deployment.md",
+    "content/progress-diary/Loadbalancer.md",
+    "content/progress-diary/nodeJS+dockerMysql+workbench.md",
+    "content/progress-diary/k8s이해.md",
+    "content/progress-diary/inode 아이노드.md",
+    "content/progress-diary/디바이스파일 device file.md",
+    "content/progress-diary/디렉토리개념.md",
     "운영체제 개요.md",
     "content/progress-diary/소프트링크와 inode, 하드링크.md",
     "content/progress-diary/아키텍처.md",
-    "content/progress-diary/inode 아이노드.md",
-    "content/progress-diary/k8s이해.md",
-    "content/progress-diary/Loadbalancer.md",
-    "content/progress-diary/nodeJS+dockerMysql+workbench.md",
     "content/progress-diary/RDS.md",
     "content/progress-diary/S3.md",
     "content/progress-diary/test.md",
     "content/progress-diary/useradd와 adduser차이.md",
-    "content/progress-diary/디렉토리개념.md",
     "content/progress-diary/가성비 블로그 만들기(hugo, github, vercel, obsidian).md",
     "디렉토리개념.md",
-    "content/categories.md",
-    "content/progress-diary/디바이스 드라이버란?.md",
-    "content/progress-diary/디바이스파일 device file.md",
-    "content/progress-diary/리눅스의 대표적인 디렉토리.md",
-    "content/progress-diary/사용자 group 관리.md",
-    "content/progress-diary/hugo로 블로그 만들기.md",
-    "content/progress-diary/사용자 그룹 권한 permission.md",
     "static/logo.png",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
@@ -288,16 +292,12 @@
     "themes/PaperMod/layouts/shortcodes/figure.html",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
-    "themes/PaperMod/README.md",
     "th1/PaperMod/images/tn.png",
     "th1/PaperMod/images/screenshot.png",
-    "th1/PaperMod/README.md",
     "themes/th1/PaperMod/images/tn.png",
     "themes/th1/PaperMod/images/screenshot.png",
-    "themes/th1/PaperMod/README.md",
     "themes/themes/PaperMod/images/tn.png",
     "themes/themes/PaperMod/images/screenshot.png",
-    "themes/themes/PaperMod/README.md",
     "static/Pasted image 20230227191335.png"
   ]
 }

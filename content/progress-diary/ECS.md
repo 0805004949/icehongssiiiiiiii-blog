@@ -3,7 +3,8 @@
 title: ECS
 date: 2023-05-03T15:44:38+09:00
 lastMod: 2023-05-09T15:44:38+09:00
-tags: ["2023-k8s-bootcamp","aws","kr", "blog-published"] 
+tags: [2023, rr]
+
 categories: ["TIL"] # <!--"progress-diary", "posts"  , "TIL"하나만 선택해서보셈 -->
 slug: "" # <!--영어 slug만 가능 url에서 보일 수 있음-->
 aliases: "" # <!--뭔지몰라-->
@@ -12,6 +13,7 @@ series: "" # <!--뭔지몰라-->
 description: "" # <!--포스트에대한설명 -->
 ---
 
+#2023-k8s-bootcamp  #aws 
 
 
 
