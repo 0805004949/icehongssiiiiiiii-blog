@@ -3,7 +3,7 @@ tags: ["2023-k8s-bootcamp","CS","책-TCP/IP쉽게배우기","blog-published"]
 title: 책-1장-컴퓨터NW(tcp,ip쉽게)
 date: 2023-05-12T16:00:33
 lastmod: 2023-05-12T17:38:09
-categories: ["TIL"] # <!--"progress-diary", "posts"  , "TIL"하나만 선택해서보셈 -->
+categories: ["TIL"] # <!--"progress-diary", "posts"]  , "TIL"하나만 선택해서보셈 -->
 slug: "" # <!--영어 slug만 가능 url에서 보일 수 있음-->
 aliases: "" # <!--뭔지몰라-->
 keywords: [""] # <!--뭔지몰라-->

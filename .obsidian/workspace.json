@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책-1장-컴퓨터NW(tcp,ip쉽게).md",
+                "file": "content/progress-diary/책-1장-컴퓨터NW(tcp,ip쉽게).md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2023-k8s-bootcamp",
+                "query": "책-1장-컴퓨터NW(tcp,ip쉽게)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "책-1장-컴퓨터NW(tcp,ip쉽게).md",
+                "file": "content/progress-diary/책-1장-컴퓨터NW(tcp,ip쉽게).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "책-1장-컴퓨터NW(tcp,ip쉽게).md",
+                "file": "content/progress-diary/책-1장-컴퓨터NW(tcp,ip쉽게).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책-1장-컴퓨터NW(tcp,ip쉽게).md"
+                "file": "content/progress-diary/책-1장-컴퓨터NW(tcp,ip쉽게).md"
               }
             }
           }
@@ -263,10 +263,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cc19bd320b62c9d",
+  "active": "0581010fcc231344",
   "lastOpenFiles": [
+    "content/progress-diary/가성비 블로그 만들기(hugo, github, vercel, obsidian).md",
+    "Untitled.md",
+    "content/progress-diary/책-1장-컴퓨터NW(tcp,ip쉽게).md",
     "content/progress-diary/ECS.md",
-    "책-1장-컴퓨터NW(tcp,ip쉽게).md",
     "content/progress-diary/k8s-기초.md",
     "content/progress-diary/k8s강의.md",
     "content/progress-diary/미니큐브 실습.md",
@@ -283,14 +285,12 @@
     "content/progress-diary/inode 아이노드.md",
     "content/progress-diary/디바이스파일 device file.md",
     "content/progress-diary/디렉토리개념.md",
-    "운영체제 개요.md",
+    "content/progress-diary/운영체제 개요.md",
     "content/progress-diary/소프트링크와 inode, 하드링크.md",
     "content/progress-diary/아키텍처.md",
     "content/progress-diary/RDS.md",
     "content/progress-diary/S3.md",
     "content/progress-diary/test.md",
-    "content/progress-diary/useradd와 adduser차이.md",
-    "content/progress-diary/가성비 블로그 만들기(hugo, github, vercel, obsidian).md",
     "static/logo.png",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
