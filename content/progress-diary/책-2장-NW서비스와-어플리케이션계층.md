@@ -14,23 +14,6 @@ lastmod: 2023-05-15T17:38:13---
 
 ---
 
-- [[#1. HTTP|1. HTTP]]
-	- [[#1. HTTP#HTTP 요청|HTTP 요청]]
-	- [[#1. HTTP#HTTP 응답|HTTP 응답]]
-	- [[#1. HTTP#HTTP는 Stateless(무상태)|HTTP는 Stateless(무상태)]]
-- [[#2. 웹서비스와 웹 애플리케이션|2. 웹서비스와 웹 애플리케이션]]
-	- [[#2. 웹서비스와 웹 애플리케이션#AJAX?|AJAX?]]
-- [[#3. 쿠키|3. 쿠키]]
-- [[#4. 이메일|4. 이메일]]
-	- [[#4. 이메일#SMTP (발신)|SMTP (발신)]]
-	- [[#4. 이메일#POP (수신)|POP (수신)]]
-- [[#5. PC끼리 공유하기|5. PC끼리 공유하기]]
-- [[#6. FTP,  파일 전송 프로토콜|6. FTP,  파일 전송 프로토콜]]
-- [[#7. 원격지 컴퓨터제어(SSH, Telnet)|7. 원격지 컴퓨터제어(SSH, Telnet)]]
-- [[#8. VoiceOver IP와 영상 스트리밍|8. VoiceOver IP와 영상 스트리밍]]
-- [[#📑 Ref|📑 Ref]]
-
-
 
 
 ![](https://i.imgur.com/4nMKaOG.png)
