@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "56d5f514c98a13c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/progress-diary/test123.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "677b381b616e3910",
             "type": "leaf",
             "state": {
@@ -123,7 +135,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/progress-diary/책-2장-NW서비스와-어플리케이션계층.md",
+                "file": "content/progress-diary/test123.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/progress-diary/책-2장-NW서비스와-어플리케이션계층.md",
+                "file": "content/progress-diary/test123.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/progress-diary/책-2장-NW서비스와-어플리케이션계층.md"
+                "file": "content/progress-diary/test123.md"
               }
             }
           }
@@ -250,14 +263,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a8a3a0ea9084d9",
+  "active": "56d5f514c98a13c4",
   "lastOpenFiles": [
-    "content/progress-diary/k8s-레플리카셋.md",
+    "content/progress-diary/RDS.md",
+    "content/progress-diary/test123.md",
+    "Untitled.md",
     "content/progress-diary/책-2장-NW서비스와-어플리케이션계층.md",
+    "content/progress-diary/k8s-레플리카셋.md",
     "content/progress-diary/nodeJS+dockerMysql+workbench.md",
     "content/progress-diary/운영체제 개요.md",
     "content/progress-diary/가성비 블로그 만들기(hugo, github, vercel, obsidian).md",
-    "Untitled.md",
     "content/progress-diary/ECS.md",
     "content/progress-diary/k8s-기초.md",
     "content/progress-diary/k8s강의.md",
@@ -275,9 +290,7 @@
     "content/progress-diary/디렉토리개념.md",
     "content/progress-diary/소프트링크와 inode, 하드링크.md",
     "content/progress-diary/아키텍처.md",
-    "content/progress-diary/RDS.md",
     "content/progress-diary/S3.md",
-    "content/progress-diary/test.md",
     "static/logo.png",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
