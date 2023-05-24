@@ -97,7 +97,7 @@ kubectl get pod --show-labels -l 'foo!=test'
 
 ## 레이블 배치 전략 
 
-[k8s-레이블-모범사례](INBOX/k8s-레이블-모범사례.md)
+[k8s-레이블-모범사례](PROJECTS👍/인강-devops를위한-k8s/k8s-레이블-모범사례.md)
 
 ![](https://i.imgur.com/5KbDJ2I.png)
 

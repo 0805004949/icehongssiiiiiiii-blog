@@ -57,7 +57,7 @@ kubectl get pod http-go -o  yaml (또는 json)
 kubectl describe pod http-go
 ```
 
-- 서비스에 접근하려면 포트 포워딩. 이때 배포한 서버가 있는 곳에서 응답 받을 수 있고 외부에서 접근하면 연결안됨. 따라서 새 터미널 열어서 `curl 127.0.0.1:8080. 하면 잘뜸
+- 서비스에 접근하려면 포트 포워딩. 이때 배포한 서버가 있는 곳에서 응답 받을 수 있고 외부에서 접근하면 연결안됨. 따라서 새 터미널 열어서 `curl 127.0.0.1:8080. 하면 잘뜸 또는  `curl 노드 ip:8080`
 
 ```sh
 kubectl port-forward http-go 8080:8080

@@ -1,5 +1,5 @@
 ---
-title: 미니큐브 실습
+title: minikube 실습
 date: 2023-05-09T17:03:34
 tags: ["2023-k8s-bootcamp","k8s","KR","인강-devops를위한-k8s","blog-published"] 
 categories: ["TIL"] # <!--"progress-
@@ -8,7 +8,7 @@ aliases: "" # <!--뭔지몰라-->
 keywords: [""] # <!--뭔지몰라-->
 series: "" # <!--뭔지몰라-->
 description: "" # <!--포스트에대한설명 -->
-lastmod: 2023-05-11T01:42:26
+lastmod: 2023-05-15T11:58:42
 ---
 ##  macos에서 미니큐브 설치
 

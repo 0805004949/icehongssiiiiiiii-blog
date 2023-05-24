@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25a8a3a0ea9084d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/progress-diary/책-2장-NW서비스와-어플리케이션계층.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56d5f514c98a13c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/progress-diary/test123.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "677b381b616e3910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/progress-diary/RDS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "84d4fa855aa7ed73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/progress-diary/S3.md",
+                "file": "content/contents/S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/progress-diary/Loadbalancer.md",
+                "file": "content/contents/Loadbalancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/progress-diary/ECS.md",
+                "file": "content/contents/ECS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/progress-diary/아키텍처.md",
+                "file": "content/contents/아키텍처.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/progress-diary/ECS.md",
+                "file": "content/contents/ECS.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,26 +81,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/progress-diary/책-2장-NW서비스와-어플리케이션계층.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d9d26b30b2d7237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/progress-diary/k8s-기초.md",
+                "file": "content/contents/책-2장-NW서비스와-어플리케이션계층.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/progress-diary/test123.md",
+                "file": "content/contents/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/progress-diary/test123.md",
+                "file": "content/contents/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/progress-diary/test123.md"
+                "file": "content/contents/S3.md"
               }
             }
           }
@@ -263,34 +214,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56d5f514c98a13c4",
+  "active": "84d4fa855aa7ed73",
   "lastOpenFiles": [
-    "content/progress-diary/RDS.md",
-    "content/progress-diary/test123.md",
+    "content/contents/RDS.md",
+    "content/contents/k8s-네임스페이스.md",
+    "content/contents/가성비 블로그 만들기(hugo, github, vercel, obsidian).md",
+    "content/contents/k8s-kubesystem개요(🔥draft).md",
+    "content/contents/k8s-app-롤링업데이트.md",
+    "content/contents/k8s-API-deployment.md",
+    "content/contents/k8s-레플리카셋.md",
+    "content/contents/k8s-레플리케이션컨트롤러.md",
+    "content/contents/k8s-레이블-모범사례.md",
+    "content/contents/k8s-레이블과-셀렉터.md",
+    "content/contents/k8s-pod-liveness-redainess-소개.md",
+    "content/contents/k8s-yaml-POD-작성(descriptor).md",
+    "content/contents/k8s-POD란?.md",
+    "content/contents/minikube 실습.md",
+    "content/contents/k8s-기초.md",
+    "content/contents/k8s이해.md",
+    "content/contents/k8s강의.md",
+    "content/search.md",
+    "content/contents/디바이스파일 device file.md",
+    "content/contents/미니큐브 실습.md",
+    "content/contents/test123.md",
     "Untitled.md",
-    "content/progress-diary/책-2장-NW서비스와-어플리케이션계층.md",
-    "content/progress-diary/k8s-레플리카셋.md",
-    "content/progress-diary/nodeJS+dockerMysql+workbench.md",
+    "content/contents/책-2장-NW서비스와-어플리케이션계층.md",
+    "content/contents/nodeJS+dockerMysql+workbench.md",
     "content/progress-diary/운영체제 개요.md",
-    "content/progress-diary/가성비 블로그 만들기(hugo, github, vercel, obsidian).md",
-    "content/progress-diary/ECS.md",
-    "content/progress-diary/k8s-기초.md",
-    "content/progress-diary/k8s강의.md",
-    "content/progress-diary/미니큐브 실습.md",
-    "content/progress-diary/k8s-POD란?.md",
-    "content/progress-diary/k8s-yaml-POD-작성(descriptor).md",
-    "content/progress-diary/k8s-pod-liveness-redainess-소개.md",
-    "content/progress-diary/k8s-레이블과-셀렉터.md",
-    "content/progress-diary/k8s-레플리케이션컨트롤러.md",
-    "content/progress-diary/k8s-API-deployment.md",
-    "content/progress-diary/Loadbalancer.md",
-    "content/progress-diary/k8s이해.md",
-    "content/progress-diary/inode 아이노드.md",
-    "content/progress-diary/디바이스파일 device file.md",
-    "content/progress-diary/디렉토리개념.md",
-    "content/progress-diary/소프트링크와 inode, 하드링크.md",
-    "content/progress-diary/아키텍처.md",
-    "content/progress-diary/S3.md",
+    "content/contents/ECS.md",
     "static/logo.png",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
