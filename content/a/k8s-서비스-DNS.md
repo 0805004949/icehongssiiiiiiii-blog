@@ -6,6 +6,9 @@ aliases: "" # <!--뭔지몰라-->
 keywords: [""] # <!--뭔지몰라-->
 series: "" # <!--뭔지몰라-->
 description: "" # <!--포스트에대한설명 -->
+title: k8s-서비스-DNS
+date: 2023-05-22T14:36:35
+lastmod: 2023-06-05T14:35:27
 ---
 
 ## DNS 서비스

@@ -6,9 +6,9 @@ aliases: "" # <!--뭔지몰라-->
 keywords: [""] # <!--뭔지몰라-->
 series: "" # <!--뭔지몰라-->
 description: "" # <!--포스트에대한설명 -->
-title: k8s-kubesystem개요
+title: k8s-kubesystem개요(🔥draft)
 date: 2023-05-15T15:21:00
-lastmod: 2023-05-15T15:21:37
+lastmod: 2023-06-05T14:36:52
 ---
 
 > [!important] 
