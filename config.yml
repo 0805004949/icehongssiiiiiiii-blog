@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: en-us
-title: My New Hugo Site
+title: Welcome NC guys!
 theme : PaperMod
 
 outputs:
@@ -11,15 +11,8 @@ outputs:
 params:
   comments: true
   homeInfoParams:
-    Title: 'Hello stranger'
+    Title: 'NC 채용자 여러분 안녕하세요!!'
     Content: 'Welcome'
-  socialIcons:
-    - name: facebook
-      url: "https://www.naver.com"
-    - name: github
-      url: "https://www.naver.com"
-    - name: twitter
-      url: "https://www.naver.com"
   cover:
     linkFullImages: true
 
