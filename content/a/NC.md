@@ -28,8 +28,15 @@ description: "" # <!--포스트에대한설명 -->
 
 # 제 기획서를 봐주세요! 
 
-![alt text](idwfw-7.png) ![alt text](idwfw-1.png) ![alt text](idwfw-2.png) ![alt text](idwfw-3.png) ![alt text](idwfw-4.png) ![alt text](idwfw-5.png) ![alt text](idwfw-6.png) ![alt text](idwfw-8.png) ![alt text](idwfw-9.png)
-
+![](https://i.imgur.com/dsogiIR.png)
+![](https://i.imgur.com/zZz76ju.png)
+![](https://i.imgur.com/oj9IXqB.png)
+![](https://i.imgur.com/0cp1kdo.png)
+![](https://i.imgur.com/ixRzHKc.png)
+![](https://i.imgur.com/M3LAE9L.png)
+![](https://i.imgur.com/4C5egcI.png)
+![](https://i.imgur.com/ndYkgIo.png)
+![](https://i.imgur.com/yqVp98L.png)
 
 
 # 감사합니다!
